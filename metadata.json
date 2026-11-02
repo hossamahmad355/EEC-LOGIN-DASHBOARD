@@ -1,0 +1,6 @@
+{
+  "name": "EEC Portal - Egyptian Engineering Company",
+  "description": "Integrated Digital Platform for Company Operations & Engineering Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
